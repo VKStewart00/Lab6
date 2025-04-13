@@ -1,0 +1,639 @@
+study_year,median_income_2018,mc_infant,mc_toddler,mc_preschool,county_name,region
+2008,154.83,301.77,214.22,214.22,Alameda,San Francisco Bay Area
+2009,169.31,312.76,234.23,234.23,Alameda,San Francisco Bay Area
+2010,182.19,313.14,234.95,234.95,Alameda,San Francisco Bay Area
+2011,195.06,313.53,235.68,235.68,Alameda,San Francisco Bay Area
+2012,207.94,313.91,236.4,236.4,Alameda,San Francisco Bay Area
+2013,191.93,311.92,231.57,231.57,Alameda,San Francisco Bay Area
+2014,175.91,309.92,226.74,226.74,Alameda,San Francisco Bay Area
+2015,188.73,343.86,250.57,250.57,Alameda,San Francisco Bay Area
+2016,201.54,377.8,274.39,274.39,Alameda,San Francisco Bay Area
+2017,212.66,385.5,289.78,289.78,Alameda,San Francisco Bay Area
+2018,223.78,393.2,305.16,305.16,Alameda,San Francisco Bay Area
+2008,140.85,270.26,176.13,176.13,Alpine,Alpine
+2009,153.92,292.31,205.82,205.82,Alpine,Alpine
+2010,155.88,291.53,203.82,203.82,Alpine,Alpine
+2011,157.84,290.74,201.81,201.81,Alpine,Alpine
+2012,159.8,289.96,199.81,199.81,Alpine,Alpine
+2013,146.79,285.29,186.4,186.4,Alpine,Alpine
+2014,133.77,280.61,172.99,172.99,Alpine,Alpine
+2015,131.31,261.31,161.38,161.38,Alpine,Alpine
+2016,128.85,242.01,149.77,149.77,Alpine,Alpine
+2017,151.06,275.11,155.52,155.52,Alpine,Alpine
+2018,173.26,308.2,161.26,161.26,Alpine,Alpine
+2008,127.39,224.61,159.22,159.22,Amador,Central Sierra
+2009,150.14,247.66,181.58,181.58,Amador,Central Sierra
+2010,153.36,261.76,187.66,187.66,Amador,Central Sierra
+2011,156.58,275.86,193.73,193.73,Amador,Central Sierra
+2012,159.8,289.96,199.81,199.81,Amador,Central Sierra
+2013,146.79,285.29,186.4,186.4,Amador,Central Sierra
+2014,133.77,280.61,172.99,172.99,Amador,Central Sierra
+2015,131.31,261.31,166.96,166.96,Amador,Central Sierra
+2016,128.85,242.01,160.92,160.92,Amador,Central Sierra
+2017,118.37,214.24,157.84,157.84,Amador,Central Sierra
+2018,107.89,186.46,154.76,154.76,Amador,Central Sierra
+2008,137.7,225.01,158.41,158.41,Butte,Superior California
+2009,146.97,246.03,179.4,179.4,Butte,Superior California
+2010,150.93,246.7,182.06,182.06,Butte,Superior California
+2011,154.9,247.38,184.73,184.73,Butte,Superior California
+2012,158.86,248.05,187.39,187.39,Butte,Superior California
+2013,151.31,246.84,181,181,Butte,Superior California
+2014,143.76,245.63,174.6,174.6,Butte,Superior California
+2015,155.21,255.83,177.04,177.04,Butte,Superior California
+2016,166.66,266.02,179.47,179.47,Butte,Superior California
+2017,163.57,276.9,182.04,182.04,Butte,Superior California
+2018,160.48,287.77,184.61,184.61,Butte,Superior California
+2008,139.12,228.51,162.07,162.07,Calaveras,Central Sierra
+2009,144.79,248.91,188.25,188.25,Calaveras,Central Sierra
+2010,155.94,263.98,194.48,194.48,Calaveras,Central Sierra
+2011,167.1,279.04,200.7,200.7,Calaveras,Central Sierra
+2012,178.25,294.11,206.93,206.93,Calaveras,Central Sierra
+2013,156.97,278.38,184.83,184.83,Calaveras,Central Sierra
+2014,135.69,262.65,162.72,162.72,Calaveras,Central Sierra
+2015,132.27,252.33,156.25,156.25,Calaveras,Central Sierra
+2016,128.85,242.01,149.77,149.77,Calaveras,Central Sierra
+2017,134.66,239.27,158.63,158.63,Calaveras,Central Sierra
+2018,140.46,236.52,167.48,167.48,Calaveras,Central Sierra
+2008,124.12,221.22,156.87,156.87,Colusa,Superior California
+2009,146.97,246.03,179.4,179.4,Colusa,Superior California
+2010,148.05,239.47,177.15,177.15,Colusa,Superior California
+2011,149.12,232.9,174.89,174.89,Colusa,Superior California
+2012,150.2,226.34,172.64,172.64,Colusa,Superior California
+2013,147.06,235.57,164.88,164.88,Colusa,Superior California
+2014,143.92,244.79,157.12,157.12,Colusa,Superior California
+2015,136.39,243.4,153.45,153.45,Colusa,Superior California
+2016,128.85,242.01,149.77,149.77,Colusa,Superior California
+2017,144.22,228.61,153.63,153.63,Colusa,Superior California
+2018,159.59,215.21,157.49,157.49,Colusa,Superior California
+2008,150.97,283.02,203.26,203.26,Contra Costa,San Francisco Bay Area
+2009,167.11,287.43,220.73,220.73,Contra Costa,San Francisco Bay Area
+2010,180.82,297.99,227.55,227.55,Contra Costa,San Francisco Bay Area
+2011,194.54,308.56,234.36,234.36,Contra Costa,San Francisco Bay Area
+2012,208.25,319.12,241.18,241.18,Contra Costa,San Francisco Bay Area
+2013,188.33,314.9,233.24,233.24,Contra Costa,San Francisco Bay Area
+2014,168.4,310.68,225.29,225.29,Contra Costa,San Francisco Bay Area
+2015,184.33,332.88,238.8,238.8,Contra Costa,San Francisco Bay Area
+2016,200.25,355.08,252.31,252.31,Contra Costa,San Francisco Bay Area
+2017,210.78,361.13,268.35,268.35,Contra Costa,San Francisco Bay Area
+2018,221.3,367.17,284.39,284.39,Contra Costa,San Francisco Bay Area
+2008,124.12,221.22,156.87,156.87,Del Norte,North State
+2009,146.97,246.03,179.4,179.4,Del Norte,North State
+2010,148.43,233.74,175.66,175.66,Del Norte,North State
+2011,149.88,221.44,171.91,171.91,Del Norte,North State
+2012,151.34,209.15,168.17,168.17,Del Norte,North State
+2013,147.25,228.81,159.78,159.78,Del Norte,North State
+2014,143.15,248.46,151.39,151.39,Del Norte,North State
+2015,136,245.24,160.24,160.24,Del Norte,North State
+2016,128.85,242.01,169.08,169.08,Del Norte,North State
+2017,114.31,212.22,160.84,160.84,Del Norte,North State
+2018,99.77,182.42,152.59,152.59,Del Norte,North State
+2008,134.7,248.12,175.28,175.28,El Dorado,Greater Sacramento
+2009,155.79,261.68,196.48,196.48,El Dorado,Greater Sacramento
+2010,173.17,279.06,209.73,209.73,El Dorado,Greater Sacramento
+2011,190.55,296.45,222.98,222.98,El Dorado,Greater Sacramento
+2012,207.93,313.83,236.23,236.23,El Dorado,Greater Sacramento
+2013,180.52,295.49,213.22,213.22,El Dorado,Greater Sacramento
+2014,153.1,277.15,190.21,190.21,El Dorado,Greater Sacramento
+2015,171.41,285.56,194.83,194.83,El Dorado,Greater Sacramento
+2016,189.71,293.97,199.44,199.44,El Dorado,Greater Sacramento
+2017,183.58,307.73,206.97,206.97,El Dorado,Greater Sacramento
+2018,177.44,321.48,214.49,214.49,El Dorado,Greater Sacramento
+2008,132.26,230.49,163.99,163.99,Fresno,San Joaquin Valley
+2009,151.93,251.99,188.53,188.53,Fresno,San Joaquin Valley
+2010,156.8,244.44,187.98,187.98,Fresno,San Joaquin Valley
+2011,161.67,236.88,187.42,187.42,Fresno,San Joaquin Valley
+2012,166.54,229.33,186.87,186.87,Fresno,San Joaquin Valley
+2013,155.08,238.49,178.99,178.99,Fresno,San Joaquin Valley
+2014,143.62,247.64,171.11,171.11,Fresno,San Joaquin Valley
+2015,139.71,249.6,170.62,170.62,Fresno,San Joaquin Valley
+2016,135.79,251.56,170.12,170.12,Fresno,San Joaquin Valley
+2017,151.41,269.38,176.12,176.12,Fresno,San Joaquin Valley
+2018,167.02,287.2,182.11,182.11,Fresno,San Joaquin Valley
+2008,127.25,223.84,158.86,158.86,Glenn,Superior California
+2009,150.04,247.48,181.34,181.34,Glenn,Superior California
+2010,147.65,245.58,180.34,180.34,Glenn,Superior California
+2011,145.27,243.67,179.33,179.33,Glenn,Superior California
+2012,142.88,241.77,178.33,178.33,Glenn,Superior California
+2013,143.4,243.28,164.87,164.87,Glenn,Superior California
+2014,143.92,244.79,151.41,151.41,Glenn,Superior California
+2015,136.39,243.4,150.59,150.59,Glenn,Superior California
+2016,128.85,242.01,149.77,149.77,Glenn,Superior California
+2017,121.07,217.82,152.53,152.53,Glenn,Superior California
+2018,113.28,193.63,155.28,155.28,Glenn,Superior California
+2008,138.79,227.23,159.23,159.23,Humboldt,North State
+2009,146.97,246.03,179.4,179.4,Humboldt,North State
+2010,151.22,255.52,185.77,185.77,Humboldt,North State
+2011,155.47,265.02,192.13,192.13,Humboldt,North State
+2012,159.72,274.51,198.5,198.5,Humboldt,North State
+2013,146.84,276.72,186.09,186.09,Humboldt,North State
+2014,133.96,278.92,173.68,173.68,Humboldt,North State
+2015,146.97,270.53,175.61,175.61,Humboldt,North State
+2016,159.97,262.14,177.54,177.54,Humboldt,North State
+2017,168.14,279.92,187.58,187.58,Humboldt,North State
+2018,176.3,297.69,197.62,197.62,Humboldt,North State
+2008,126.55,222.86,157.92,157.92,Imperial,Imperial
+2009,148.4,246.66,180,180,Imperial,Imperial
+2010,148.86,233.86,176.08,176.08,Imperial,Imperial
+2011,149.32,221.05,172.15,172.15,Imperial,Imperial
+2012,149.78,208.25,168.23,168.23,Imperial,Imperial
+2013,146.85,226.52,170.3,170.3,Imperial,Imperial
+2014,143.92,244.79,172.36,172.36,Imperial,Imperial
+2015,136.87,245.09,170.61,170.61,Imperial,Imperial
+2016,129.81,245.39,168.86,168.86,Imperial,Imperial
+2017,132.73,220.45,162.21,162.21,Imperial,Imperial
+2018,135.65,195.51,155.56,155.56,Imperial,Imperial
+2008,124.12,221.22,156.87,156.87,Inyo,Central Sierra
+2009,146.97,246.03,179.4,179.4,Inyo,Central Sierra
+2010,151.14,248.59,184.66,184.66,Inyo,Central Sierra
+2011,155.3,251.14,189.93,189.93,Inyo,Central Sierra
+2012,159.47,253.7,195.19,195.19,Inyo,Central Sierra
+2013,146.84,265.1,181.66,181.66,Inyo,Central Sierra
+2014,134.2,276.5,168.12,168.12,Inyo,Central Sierra
+2015,157.18,271.83,173.37,173.37,Inyo,Central Sierra
+2016,180.15,267.15,178.61,178.61,Inyo,Central Sierra
+2017,174.1,280.24,180.04,180.04,Inyo,Central Sierra
+2018,168.05,293.33,181.46,181.46,Inyo,Central Sierra
+2008,131.74,224.32,160.89,160.89,Kern,San Joaquin Valley
+2009,149.3,248.05,184.52,184.52,Kern,San Joaquin Valley
+2010,150.11,241.62,182.25,182.25,Kern,San Joaquin Valley
+2011,150.92,235.18,179.97,179.97,Kern,San Joaquin Valley
+2012,151.73,228.75,177.7,177.7,Kern,San Joaquin Valley
+2013,147.79,237.25,174.96,174.96,Kern,San Joaquin Valley
+2014,143.85,245.75,172.23,172.23,Kern,San Joaquin Valley
+2015,137.03,248.53,169.81,169.81,Kern,San Joaquin Valley
+2016,130.21,251.3,167.39,167.39,Kern,San Joaquin Valley
+2017,149.46,268.97,171.64,171.64,Kern,San Joaquin Valley
+2018,168.71,286.63,175.89,175.89,Kern,San Joaquin Valley
+2008,130.7,234.19,162.04,162.04,Kings,San Joaquin Valley
+2009,151.39,250.61,184.34,184.34,Kings,San Joaquin Valley
+2010,150.23,235.32,177.97,177.97,Kings,San Joaquin Valley
+2011,149.08,220.03,171.61,171.61,Kings,San Joaquin Valley
+2012,147.92,204.74,165.24,165.24,Kings,San Joaquin Valley
+2013,145.92,224.77,169.46,169.46,Kings,San Joaquin Valley
+2014,143.92,244.79,173.68,173.68,Kings,San Joaquin Valley
+2015,137.68,248.19,171.52,171.52,Kings,San Joaquin Valley
+2016,131.44,251.58,169.36,169.36,Kings,San Joaquin Valley
+2017,145.16,231.67,163.34,163.34,Kings,San Joaquin Valley
+2018,158.88,211.75,157.31,157.31,Kings,San Joaquin Valley
+2008,138.09,225.22,158.55,158.55,Lake,North State
+2009,146.97,246.03,179.4,179.4,Lake,North State
+2010,151.11,245.28,181.9,181.9,Lake,North State
+2011,155.25,244.52,184.41,184.41,Lake,North State
+2012,159.39,243.77,186.91,186.91,Lake,North State
+2013,150.01,250.72,173.67,173.67,Lake,North State
+2014,140.63,257.66,160.43,160.43,Lake,North State
+2015,134.74,249.84,157.64,157.64,Lake,North State
+2016,128.85,242.01,154.85,154.85,Lake,North State
+2017,136.19,227.26,161.14,161.14,Lake,North State
+2018,143.53,212.5,167.43,167.43,Lake,North State
+2008,124.12,221.22,156.87,156.87,Lassen,Superior California
+2009,146.97,246.03,179.4,179.4,Lassen,Superior California
+2010,150.12,234.36,175.96,175.96,Lassen,Superior California
+2011,153.28,222.7,172.52,172.52,Lassen,Superior California
+2012,156.43,211.03,169.08,169.08,Lassen,Superior California
+2013,150.18,227.91,157.36,157.36,Lassen,Superior California
+2014,143.92,244.79,145.63,145.63,Lassen,Superior California
+2015,136.39,243.4,149.16,149.16,Lassen,Superior California
+2016,128.85,242.01,152.68,152.68,Lassen,Superior California
+2017,114.31,212.22,152.64,152.64,Lassen,Superior California
+2018,99.77,182.42,152.59,152.59,Lassen,Superior California
+2008,144.43,251.51,179.3,179.3,Los Angeles,Los Angeles
+2009,155.62,262.75,201.38,201.38,Los Angeles,Los Angeles
+2010,172.75,279.23,210.7,210.7,Los Angeles,Los Angeles
+2011,189.89,295.72,220.03,220.03,Los Angeles,Los Angeles
+2012,207.02,312.2,229.35,229.35,Los Angeles,Los Angeles
+2013,183.48,303.72,218.32,218.32,Los Angeles,Los Angeles
+2014,159.93,295.23,207.29,207.29,Los Angeles,Los Angeles
+2015,170.36,308.58,211.82,211.82,Los Angeles,Los Angeles
+2016,180.78,321.92,216.35,216.35,Los Angeles,Los Angeles
+2017,190.47,328.06,228.8,228.8,Los Angeles,Los Angeles
+2018,200.16,334.2,241.25,241.25,Los Angeles,Los Angeles
+2008,126.45,222.18,158.17,158.17,Madera,San Joaquin Valley
+2009,148.47,247.08,181.06,181.06,Madera,San Joaquin Valley
+2010,151.08,246.24,181.77,181.77,Madera,San Joaquin Valley
+2011,153.68,245.39,182.47,182.47,Madera,San Joaquin Valley
+2012,156.29,244.55,183.18,183.18,Madera,San Joaquin Valley
+2013,149.15,248.63,179.83,179.83,Madera,San Joaquin Valley
+2014,142,252.71,176.48,176.48,Madera,San Joaquin Valley
+2015,135.43,247.36,163.13,163.13,Madera,San Joaquin Valley
+2016,128.85,242.01,149.77,149.77,Madera,San Joaquin Valley
+2017,152.17,255.74,155.24,155.24,Madera,San Joaquin Valley
+2018,175.48,269.47,160.7,160.7,Madera,San Joaquin Valley
+2008,169.9,362.45,268.97,268.97,Marin,San Francisco Bay Area
+2009,180.69,389.7,303.79,303.79,Marin,San Francisco Bay Area
+2010,189.91,366.97,283.29,283.29,Marin,San Francisco Bay Area
+2011,199.13,344.24,262.78,262.78,Marin,San Francisco Bay Area
+2012,208.35,321.51,242.28,242.28,Marin,San Francisco Bay Area
+2013,200.45,350.82,259.34,259.34,Marin,San Francisco Bay Area
+2014,192.55,380.13,276.4,276.4,Marin,San Francisco Bay Area
+2015,196.71,400.45,303.79,303.79,Marin,San Francisco Bay Area
+2016,200.87,420.77,331.18,331.18,Marin,San Francisco Bay Area
+2017,213.53,419.28,327.52,327.52,Marin,San Francisco Bay Area
+2018,226.18,417.78,323.85,323.85,Marin,San Francisco Bay Area
+2008,124.12,221.22,156.87,156.87,Mariposa,San Joaquin Valley
+2009,146.97,246.03,179.4,179.4,Mariposa,San Joaquin Valley
+2010,149.7,239.45,177.77,177.77,Mariposa,San Joaquin Valley
+2011,152.43,232.88,176.15,176.15,Mariposa,San Joaquin Valley
+2012,155.16,226.3,174.52,174.52,Mariposa,San Joaquin Valley
+2013,144.59,252.38,174.35,174.35,Mariposa,San Joaquin Valley
+2014,134.01,278.45,174.18,174.18,Mariposa,San Joaquin Valley
+2015,131.43,260.23,161.98,161.98,Mariposa,San Joaquin Valley
+2016,128.85,242.01,149.77,149.77,Mariposa,San Joaquin Valley
+2017,116.2,224.36,153.28,153.28,Mariposa,San Joaquin Valley
+2018,103.55,206.71,156.78,156.78,Mariposa,San Joaquin Valley
+2008,132.55,224.1,159.39,159.39,Mendocino,North State
+2009,149.01,247.49,182.62,182.62,Mendocino,North State
+2010,152.6,260.65,188.25,188.25,Mendocino,North State
+2011,156.19,273.82,193.88,193.88,Mendocino,North State
+2012,159.78,286.98,199.51,199.51,Mendocino,North State
+2013,148.13,281.31,189.76,189.76,Mendocino,North State
+2014,136.48,275.64,180.01,180.01,Mendocino,North State
+2015,144.55,266.34,177.49,177.49,Mendocino,North State
+2016,152.62,257.04,174.96,174.96,Mendocino,North State
+2017,147.97,241.53,174,174,Mendocino,North State
+2018,143.31,226.02,173.03,173.03,Mendocino,North State
+2008,124.12,221.22,156.87,156.87,Merced,San Joaquin Valley
+2009,146.97,246.03,179.4,179.4,Merced,San Joaquin Valley
+2010,147.93,240.67,178.65,178.65,Merced,San Joaquin Valley
+2011,148.88,235.3,177.91,177.91,Merced,San Joaquin Valley
+2012,149.84,229.94,177.16,177.16,Merced,San Joaquin Valley
+2013,146.88,237.37,175.66,175.66,Merced,San Joaquin Valley
+2014,143.92,244.79,174.15,174.15,Merced,San Joaquin Valley
+2015,136.65,246.77,166.85,166.85,Merced,San Joaquin Valley
+2016,129.37,248.74,159.54,159.54,Merced,San Joaquin Valley
+2017,134.34,223.75,164.83,164.83,Merced,San Joaquin Valley
+2018,139.3,198.76,170.12,170.12,Merced,San Joaquin Valley
+2008,124.12,221.22,156.87,156.87,Modoc,Superior California
+2009,146.97,246.03,179.4,179.4,Modoc,Superior California
+2010,147.33,232.21,174.29,174.29,Modoc,Superior California
+2011,147.68,218.39,169.18,169.18,Modoc,Superior California
+2012,148.04,204.57,164.07,164.07,Modoc,Superior California
+2013,147.65,228.44,162.04,162.04,Modoc,Superior California
+2014,147.25,252.3,160,160,Modoc,Superior California
+2015,138.05,247.16,154.89,154.89,Modoc,Superior California
+2016,128.85,242.01,149.77,149.77,Modoc,Superior California
+2017,114.31,212.22,151.18,151.18,Modoc,Superior California
+2018,99.77,182.42,152.59,152.59,Modoc,Superior California
+2008,140.71,237.05,171.84,171.84,Mono,Central Sierra
+2009,149.41,252.38,189.47,189.47,Mono,Central Sierra
+2010,152.83,257.55,192.21,192.21,Mono,Central Sierra
+2011,156.24,262.73,194.96,194.96,Mono,Central Sierra
+2012,159.66,267.9,197.7,197.7,Mono,Central Sierra
+2013,147.01,272.32,190.75,190.75,Mono,Central Sierra
+2014,134.35,276.74,183.79,183.79,Mono,Central Sierra
+2015,167.79,328.59,231.77,231.77,Mono,Central Sierra
+2016,201.23,380.43,279.75,279.75,Mono,Central Sierra
+2017,200.55,350.56,248.7,248.7,Mono,Central Sierra
+2018,199.87,320.69,217.65,217.65,Mono,Central Sierra
+2008,135.07,250.43,182.81,182.81,Monterey,Central Coast
+2009,155.38,262.15,201.29,201.29,Monterey,Central Coast
+2010,172.5,277.74,210.2,210.2,Monterey,Central Coast
+2011,189.62,293.33,219.11,219.11,Monterey,Central Coast
+2012,206.74,308.92,228.02,228.02,Monterey,Central Coast
+2013,181.82,300.92,215.1,215.1,Monterey,Central Coast
+2014,156.9,292.91,202.18,202.18,Monterey,Central Coast
+2015,165.33,293,200.22,200.22,Monterey,Central Coast
+2016,173.76,293.09,198.25,198.25,Monterey,Central Coast
+2017,175.7,299.3,199.47,199.47,Monterey,Central Coast
+2018,177.63,305.5,200.69,200.69,Monterey,Central Coast
+2008,144.45,243.24,175.85,175.85,Napa,San Francisco Bay Area
+2009,154.65,260.28,200.62,200.62,Napa,San Francisco Bay Area
+2010,172.27,277.32,211.24,211.24,Napa,San Francisco Bay Area
+2011,189.89,294.35,221.86,221.86,Napa,San Francisco Bay Area
+2012,207.51,311.39,232.48,232.48,Napa,San Francisco Bay Area
+2013,186.69,307.3,228.11,228.11,Napa,San Francisco Bay Area
+2014,165.87,303.21,223.73,223.73,Napa,San Francisco Bay Area
+2015,177.04,305.4,211.37,211.37,Napa,San Francisco Bay Area
+2016,188.2,307.58,199.01,199.01,Napa,San Francisco Bay Area
+2017,205.14,317.04,213.95,213.95,Napa,San Francisco Bay Area
+2018,222.08,326.5,228.89,228.89,Napa,San Francisco Bay Area
+2008,134.86,244.82,173.96,173.96,Nevada,North State
+2009,156.55,263.06,197.84,197.84,Nevada,North State
+2010,173.46,278.86,208.85,208.85,Nevada,North State
+2011,190.36,294.65,219.87,219.87,Nevada,North State
+2012,207.27,310.45,230.88,230.88,Nevada,North State
+2013,170.74,294.66,206.4,206.4,Nevada,North State
+2014,134.2,278.87,181.92,181.92,Nevada,North State
+2015,140.26,265.99,179.17,179.17,Nevada,North State
+2016,146.32,253.1,176.42,176.42,Nevada,North State
+2017,150.15,263.96,180.44,180.44,Nevada,North State
+2018,153.97,274.82,184.45,184.45,Nevada,North State
+2008,148.53,273.18,200.07,200.07,Orange,Orange County
+2009,165.37,278.82,216,216,Orange,Orange County
+2010,179.69,292.82,224.65,224.65,Orange,Orange County
+2011,194,306.81,233.3,233.3,Orange,Orange County
+2012,208.32,320.81,241.95,241.95,Orange,Orange County
+2013,193.13,312.01,231.89,231.89,Orange,Orange County
+2014,177.94,303.2,221.82,221.82,Orange,Orange County
+2015,189.11,311.95,219.41,219.41,Orange,Orange County
+2016,200.27,320.69,216.99,216.99,Orange,Orange County
+2017,209.53,330.8,230.44,230.44,Orange,Orange County
+2018,218.79,340.91,243.89,243.89,Orange,Orange County
+2008,136.64,254.63,182.16,182.16,Placer,Greater Sacramento
+2009,158.37,264.72,201.87,201.87,Placer,Greater Sacramento
+2010,174.88,281.03,213.18,213.18,Placer,Greater Sacramento
+2011,191.39,297.34,224.49,224.49,Placer,Greater Sacramento
+2012,207.9,313.65,235.8,235.8,Placer,Greater Sacramento
+2013,174.47,289.01,208.15,208.15,Placer,Greater Sacramento
+2014,141.04,264.37,180.5,180.5,Placer,Greater Sacramento
+2015,163.79,280.82,188.67,188.67,Placer,Greater Sacramento
+2016,186.53,297.27,196.83,196.83,Placer,Greater Sacramento
+2017,195.18,309.01,208.02,208.02,Placer,Greater Sacramento
+2018,203.82,320.74,219.2,219.2,Placer,Greater Sacramento
+2008,124.12,221.22,156.87,156.87,Plumas,Superior California
+2009,146.97,246.03,179.4,179.4,Plumas,Superior California
+2010,150.38,238.19,176.81,176.81,Plumas,Superior California
+2011,153.8,230.36,174.22,174.22,Plumas,Superior California
+2012,157.21,222.52,171.63,171.63,Plumas,Superior California
+2013,149.51,237.68,163.25,163.25,Plumas,Superior California
+2014,141.81,252.83,154.86,154.86,Plumas,Superior California
+2015,135.33,247.42,157.64,157.64,Plumas,Superior California
+2016,128.85,242.01,160.41,160.41,Plumas,Superior California
+2017,114.31,212.22,156.5,156.5,Plumas,Superior California
+2018,99.77,182.42,152.59,152.59,Plumas,Superior California
+2008,139.45,226.45,163.6,163.6,Riverside,Inland Empire
+2009,147,248.8,187.47,187.47,Riverside,Inland Empire
+2010,166.69,263.99,199.61,199.61,Riverside,Inland Empire
+2011,186.39,279.19,211.76,211.76,Riverside,Inland Empire
+2012,206.08,294.38,223.9,223.9,Riverside,Inland Empire
+2013,175.14,274.22,200.97,200.97,Riverside,Inland Empire
+2014,144.2,254.06,178.03,178.03,Riverside,Inland Empire
+2015,155.89,261.91,181.25,181.25,Riverside,Inland Empire
+2016,167.58,269.75,184.46,184.46,Riverside,Inland Empire
+2017,170.46,283.12,185.94,185.94,Riverside,Inland Empire
+2018,173.33,296.48,187.41,187.41,Riverside,Inland Empire
+2008,133.62,241.37,170.11,170.11,Sacramento,Greater Sacramento
+2009,152.99,254.7,191.09,191.09,Sacramento,Greater Sacramento
+2010,161.64,259.52,195.08,195.08,Sacramento,Greater Sacramento
+2011,170.29,264.35,199.06,199.06,Sacramento,Greater Sacramento
+2012,178.94,269.17,203.05,203.05,Sacramento,Greater Sacramento
+2013,160.78,260.38,189.69,189.69,Sacramento,Greater Sacramento
+2014,142.62,251.58,176.33,176.33,Sacramento,Greater Sacramento
+2015,161.94,271.06,183.91,183.91,Sacramento,Greater Sacramento
+2016,181.26,290.54,191.48,191.48,Sacramento,Greater Sacramento
+2017,179.08,295.64,195.96,195.96,Sacramento,Greater Sacramento
+2018,176.9,300.73,200.43,200.43,Sacramento,Greater Sacramento
+2008,142.41,238.71,180.51,180.51,San Benito,Central Coast
+2009,150.54,254.66,194.4,194.4,San Benito,Central Coast
+2010,169.81,276.94,210.36,210.36,San Benito,Central Coast
+2011,189.08,299.23,226.32,226.32,San Benito,Central Coast
+2012,208.35,321.51,242.28,242.28,San Benito,Central Coast
+2013,175.8,287.92,210.59,210.59,San Benito,Central Coast
+2014,143.24,254.32,178.89,178.89,San Benito,Central Coast
+2015,160.99,263.06,180.74,180.74,San Benito,Central Coast
+2016,178.74,271.8,182.59,182.59,San Benito,Central Coast
+2017,173.27,282.99,186.21,186.21,San Benito,Central Coast
+2018,167.79,294.18,189.82,189.82,San Benito,Central Coast
+2008,132.12,227.76,163.71,163.71,San Bernardino,Inland Empire
+2009,151.31,251.25,188.1,188.1,San Bernardino,Inland Empire
+2010,158.54,257.96,192.95,192.95,San Bernardino,Inland Empire
+2011,165.78,264.68,197.79,197.79,San Bernardino,Inland Empire
+2012,173.01,271.39,202.64,202.64,San Bernardino,Inland Empire
+2013,158.87,262.27,189.81,189.81,San Bernardino,Inland Empire
+2014,144.72,253.15,176.98,176.98,San Bernardino,Inland Empire
+2015,153.63,259.18,180.09,180.09,San Bernardino,Inland Empire
+2016,162.54,265.2,183.19,183.19,San Bernardino,Inland Empire
+2017,166.66,278.29,179.89,179.89,San Bernardino,Inland Empire
+2018,170.77,291.37,176.58,176.58,San Bernardino,Inland Empire
+2008,144.77,255.69,183.06,183.06,San Diego,San Diego
+2009,157.07,265.01,202.75,202.75,San Diego,San Diego
+2010,174.04,281.51,214.12,214.12,San Diego,San Diego
+2011,191,298.01,225.5,225.5,San Diego,San Diego
+2012,207.97,314.51,236.87,236.87,San Diego,San Diego
+2013,181.64,299.02,218.04,218.04,San Diego,San Diego
+2014,155.3,283.52,199.2,199.2,San Diego,San Diego
+2015,173.18,301.8,207.12,207.12,San Diego,San Diego
+2016,191.05,320.07,215.04,215.04,San Diego,San Diego
+2017,195.88,324.21,224.07,224.07,San Diego,San Diego
+2018,200.7,328.35,233.1,233.1,San Diego,San Diego
+2008,165.27,342.18,246.72,246.72,San Francisco,San Francisco Bay Area
+2009,176.92,359.84,278.63,278.63,San Francisco,San Francisco Bay Area
+2010,187.27,344.77,264.77,264.77,San Francisco,San Francisco Bay Area
+2011,197.62,329.69,250.91,250.91,San Francisco,San Francisco Bay Area
+2012,207.97,314.62,237.05,237.05,San Francisco,San Francisco Bay Area
+2013,200.07,340.76,250.05,250.05,San Francisco,San Francisco Bay Area
+2014,192.17,366.89,263.04,263.04,San Francisco,San Francisco Bay Area
+2015,196.89,393.83,297.33,297.33,San Francisco,San Francisco Bay Area
+2016,201.6,420.77,331.62,331.62,San Francisco,San Francisco Bay Area
+2017,213.56,441.55,344.07,344.07,San Francisco,San Francisco Bay Area
+2018,225.52,462.33,356.51,356.51,San Francisco,San Francisco Bay Area
+2008,134.58,224.77,162.08,162.08,San Joaquin,San Joaquin Valley
+2009,148.8,248.56,186.19,186.19,San Joaquin,San Joaquin Valley
+2010,157.92,255.96,191.75,191.75,San Joaquin,San Joaquin Valley
+2011,167.03,263.36,197.31,197.31,San Joaquin,San Joaquin Valley
+2012,176.15,270.76,202.87,202.87,San Joaquin,San Joaquin Valley
+2013,160.23,262.44,190.14,190.14,San Joaquin,San Joaquin Valley
+2014,144.3,254.11,177.41,177.41,San Joaquin,San Joaquin Valley
+2015,147.46,255.24,177.54,177.54,San Joaquin,San Joaquin Valley
+2016,150.62,256.36,177.66,177.66,San Joaquin,San Joaquin Valley
+2017,160.01,274.77,182.84,182.84,San Joaquin,San Joaquin Valley
+2018,169.4,293.17,188.01,188.01,San Joaquin,San Joaquin Valley
+2008,144.05,241.81,170.44,170.44,San Luis Obispo,Central Coast
+2009,154.28,259.31,197.45,197.45,San Luis Obispo,Central Coast
+2010,171.85,276.07,208.06,208.06,San Luis Obispo,Central Coast
+2011,189.43,292.82,218.67,218.67,San Luis Obispo,Central Coast
+2012,207,309.58,229.28,229.28,San Luis Obispo,Central Coast
+2013,183.08,298.58,217.08,217.08,San Luis Obispo,Central Coast
+2014,159.15,287.58,204.87,204.87,San Luis Obispo,Central Coast
+2015,171.64,294.03,199.44,199.44,San Luis Obispo,Central Coast
+2016,184.12,300.48,194,194,San Luis Obispo,Central Coast
+2017,186.63,306.83,201.81,201.81,San Luis Obispo,Central Coast
+2018,189.13,313.17,209.62,209.62,San Luis Obispo,Central Coast
+2008,166.96,349.25,254,254,San Mateo,San Francisco Bay Area
+2009,178.29,377.15,283.46,283.46,San Mateo,San Francisco Bay Area
+2010,188.31,358.5,269.69,269.69,San Mateo,San Francisco Bay Area
+2011,198.32,339.86,255.91,255.91,San Mateo,San Francisco Bay Area
+2012,208.34,321.21,242.14,242.14,San Mateo,San Francisco Bay Area
+2013,200.02,342.84,252.85,252.85,San Mateo,San Francisco Bay Area
+2014,191.69,364.47,263.55,263.55,San Mateo,San Francisco Bay Area
+2015,196.97,387.57,287.23,287.23,San Mateo,San Francisco Bay Area
+2016,202.24,410.67,310.9,310.9,San Mateo,San Francisco Bay Area
+2017,214.25,416.67,318.81,318.81,San Mateo,San Francisco Bay Area
+2018,226.26,422.66,326.71,326.71,San Mateo,San Francisco Bay Area
+2008,145.45,268.69,195.85,195.85,Santa Barbara,Central Coast
+2009,157.64,276.67,220.24,220.24,Santa Barbara,Central Coast
+2010,174.5,290.47,227.12,227.12,Santa Barbara,Central Coast
+2011,191.36,304.27,233.99,233.99,Santa Barbara,Central Coast
+2012,208.22,318.07,240.87,240.87,Santa Barbara,Central Coast
+2013,193.16,329.51,243.44,243.44,Santa Barbara,Central Coast
+2014,178.09,340.95,246,246,Santa Barbara,Central Coast
+2015,179.83,340.43,242.37,242.37,Santa Barbara,Central Coast
+2016,181.56,339.9,238.74,238.74,Santa Barbara,Central Coast
+2017,192.33,341.5,242.3,242.3,Santa Barbara,Central Coast
+2018,203.09,343.09,245.86,245.86,Santa Barbara,Central Coast
+2008,167.33,355.96,258.84,258.84,Santa Clara,San Francisco Bay Area
+2009,178.87,387.82,289.71,289.71,Santa Clara,San Francisco Bay Area
+2010,188.7,365.72,273.9,273.9,Santa Clara,San Francisco Bay Area
+2011,198.52,343.61,258.09,258.09,Santa Clara,San Francisco Bay Area
+2012,208.35,321.51,242.28,242.28,Santa Clara,San Francisco Bay Area
+2013,198.53,327.33,243.34,243.34,Santa Clara,San Francisco Bay Area
+2014,188.71,333.15,244.4,244.4,Santa Clara,San Francisco Bay Area
+2015,195.73,359.91,268.68,268.68,Santa Clara,San Francisco Bay Area
+2016,202.75,386.66,292.96,292.96,Santa Clara,San Francisco Bay Area
+2017,214.11,394.21,299.74,299.74,Santa Clara,San Francisco Bay Area
+2018,225.47,401.76,306.51,306.51,Santa Clara,San Francisco Bay Area
+2008,149.74,314.5,213.09,213.09,Santa Cruz,Central Coast
+2009,164.31,328.14,230.37,230.37,Santa Cruz,Central Coast
+2010,178.91,324.44,233.6,233.6,Santa Cruz,Central Coast
+2011,193.52,320.75,236.82,236.82,Santa Cruz,Central Coast
+2012,208.12,317.05,240.05,240.05,Santa Cruz,Central Coast
+2013,188.65,310.88,230.09,230.09,Santa Cruz,Central Coast
+2014,169.18,304.7,220.13,220.13,Santa Cruz,Central Coast
+2015,185.54,327.41,236.14,236.14,Santa Cruz,Central Coast
+2016,201.89,350.11,252.14,252.14,Santa Cruz,Central Coast
+2017,209.18,345.41,246.49,246.49,Santa Cruz,Central Coast
+2018,216.47,340.71,240.83,240.83,Santa Cruz,Central Coast
+2008,125.49,221.33,156.95,156.95,Shasta,Superior California
+2009,146.97,246.03,179.4,179.4,Shasta,Superior California
+2010,149.12,248.72,181.14,181.14,Shasta,Superior California
+2011,151.26,251.42,182.89,182.89,Shasta,Superior California
+2012,153.41,254.11,184.63,184.63,Shasta,Superior California
+2013,148.48,250.47,179.95,179.95,Shasta,Superior California
+2014,143.54,246.83,175.26,175.26,Shasta,Superior California
+2015,136.74,247.54,171.45,171.45,Shasta,Superior California
+2016,129.93,248.25,167.64,167.64,Shasta,Superior California
+2017,137.41,231.73,166.28,166.28,Shasta,Superior California
+2018,144.89,215.21,164.92,164.92,Shasta,Superior California
+2008,124.12,221.22,156.87,156.87,Sierra,North State
+2009,146.97,246.03,179.4,179.4,Sierra,North State
+2010,147.33,232.21,174.29,174.29,Sierra,North State
+2011,147.68,218.39,169.18,169.18,Sierra,North State
+2012,148.04,204.57,164.07,164.07,Sierra,North State
+2013,145.98,224.68,154.85,154.85,Sierra,North State
+2014,143.92,244.79,145.63,145.63,Sierra,North State
+2015,136.39,243.4,147.7,147.7,Sierra,North State
+2016,128.85,242.01,149.77,149.77,Sierra,North State
+2017,114.31,212.22,151.18,151.18,Sierra,North State
+2018,99.77,182.42,152.59,152.59,Sierra,North State
+2008,127.83,221.87,157.26,157.26,Siskiyou,Superior California
+2009,146.97,246.03,179.4,179.4,Siskiyou,Superior California
+2010,147.33,232.21,174.29,174.29,Siskiyou,Superior California
+2011,147.68,218.39,169.18,169.18,Siskiyou,Superior California
+2012,148.04,204.57,164.07,164.07,Siskiyou,Superior California
+2013,145.45,227.25,160.42,160.42,Siskiyou,Superior California
+2014,142.86,249.92,156.76,156.76,Siskiyou,Superior California
+2015,138.3,250.54,160.98,160.98,Siskiyou,Superior California
+2016,133.73,251.15,165.19,165.19,Siskiyou,Superior California
+2017,138.87,227.91,163.25,163.25,Siskiyou,Superior California
+2018,144,204.66,161.3,161.3,Siskiyou,Superior California
+2008,142.12,237.55,171.89,171.89,Solano,San Francisco Bay Area
+2009,151.06,253.29,191.36,191.36,Solano,San Francisco Bay Area
+2010,169.84,273.21,204.89,204.89,Solano,San Francisco Bay Area
+2011,188.63,293.13,218.42,218.42,Solano,San Francisco Bay Area
+2012,207.41,313.05,231.95,231.95,Solano,San Francisco Bay Area
+2013,180.54,292.8,210.25,210.25,Solano,San Francisco Bay Area
+2014,153.67,272.54,188.55,188.55,Solano,San Francisco Bay Area
+2015,168.86,282.1,191.09,191.09,Solano,San Francisco Bay Area
+2016,184.05,291.66,193.62,193.62,Solano,San Francisco Bay Area
+2017,182.44,297.17,197.39,197.39,Solano,San Francisco Bay Area
+2018,180.82,302.68,201.15,201.15,Solano,San Francisco Bay Area
+2008,145.9,249.07,187.41,187.41,Sonoma,San Francisco Bay Area
+2009,158.09,264.97,207.35,207.35,Sonoma,San Francisco Bay Area
+2010,174.69,281.41,216.75,216.75,Sonoma,San Francisco Bay Area
+2011,191.29,297.86,226.16,226.16,Sonoma,San Francisco Bay Area
+2012,207.89,314.3,235.56,235.56,Sonoma,San Francisco Bay Area
+2013,182,298.03,216.67,216.67,Sonoma,San Francisco Bay Area
+2014,156.11,281.76,197.77,197.77,Sonoma,San Francisco Bay Area
+2015,178.24,292.53,201.25,201.25,Sonoma,San Francisco Bay Area
+2016,200.36,303.3,204.73,204.73,Sonoma,San Francisco Bay Area
+2017,210.86,315.01,215.36,215.36,Sonoma,San Francisco Bay Area
+2018,221.36,326.72,225.99,225.99,Sonoma,San Francisco Bay Area
+2008,126.26,222.43,158.36,158.36,Stanislaus,San Joaquin Valley
+2009,147.74,246.59,180.87,180.87,Stanislaus,San Joaquin Valley
+2010,150.67,246.41,182.01,182.01,Stanislaus,San Joaquin Valley
+2011,153.61,246.24,183.14,183.14,Stanislaus,San Joaquin Valley
+2012,156.54,246.06,184.28,184.28,Stanislaus,San Joaquin Valley
+2013,150.37,247.18,179.74,179.74,Stanislaus,San Joaquin Valley
+2014,144.2,248.3,175.19,175.19,Stanislaus,San Joaquin Valley
+2015,137.01,248.09,170.27,170.27,Stanislaus,San Joaquin Valley
+2016,129.81,247.88,165.35,165.35,Stanislaus,San Joaquin Valley
+2017,138.86,243.85,169.52,169.52,Stanislaus,San Joaquin Valley
+2018,147.91,239.82,173.69,173.69,Stanislaus,San Joaquin Valley
+2008,124.12,221.22,156.87,156.87,Sutter,Greater Sacramento
+2009,146.97,246.03,179.4,179.4,Sutter,Greater Sacramento
+2010,145.83,250.13,180.97,180.97,Sutter,Greater Sacramento
+2011,144.68,254.23,182.54,182.54,Sutter,Greater Sacramento
+2012,143.54,258.33,184.11,184.11,Sutter,Greater Sacramento
+2013,143.63,251.95,179.83,179.83,Sutter,Greater Sacramento
+2014,143.72,245.56,175.55,175.55,Sutter,Greater Sacramento
+2015,137.69,245.42,172.63,172.63,Sutter,Greater Sacramento
+2016,131.65,245.28,169.71,169.71,Sutter,Greater Sacramento
+2017,142.26,255.57,173.92,173.92,Sutter,Greater Sacramento
+2018,152.86,265.85,178.12,178.12,Sutter,Greater Sacramento
+2008,124.12,221.22,156.87,156.87,Tehama,Superior California
+2009,146.97,246.03,179.4,179.4,Tehama,Superior California
+2010,147.29,232.26,174.63,174.63,Tehama,Superior California
+2011,147.62,218.48,169.86,169.86,Tehama,Superior California
+2012,147.94,204.71,165.09,165.09,Tehama,Superior California
+2013,145.93,224.75,158.04,158.04,Tehama,Superior California
+2014,143.92,244.79,150.99,150.99,Tehama,Superior California
+2015,136.39,243.4,150.38,150.38,Tehama,Superior California
+2016,128.85,242.01,149.77,149.77,Tehama,Superior California
+2017,119.24,216.83,152.38,152.38,Tehama,Superior California
+2018,109.63,191.65,154.98,154.98,Tehama,Superior California
+2008,124.12,221.22,156.87,156.87,Trinity,Superior California
+2009,146.97,246.03,179.4,179.4,Trinity,Superior California
+2010,147.33,232.21,174.29,174.29,Trinity,Superior California
+2011,147.68,218.39,169.18,169.18,Trinity,Superior California
+2012,148.04,204.57,164.07,164.07,Trinity,Superior California
+2013,145.98,224.68,162.96,162.96,Trinity,Superior California
+2014,143.92,244.79,161.84,161.84,Trinity,Superior California
+2015,136.39,243.4,155.81,155.81,Trinity,Superior California
+2016,128.85,242.01,149.77,149.77,Trinity,Superior California
+2017,114.31,212.22,151.18,151.18,Trinity,Superior California
+2018,99.77,182.42,152.59,152.59,Trinity,Superior California
+2008,125.6,221.55,157.24,157.24,Tulare,San Joaquin Valley
+2009,147.32,246.18,179.56,179.56,Tulare,San Joaquin Valley
+2010,147.21,237.54,176.2,176.2,Tulare,San Joaquin Valley
+2011,147.11,228.91,172.85,172.85,Tulare,San Joaquin Valley
+2012,147,220.27,169.49,169.49,Tulare,San Joaquin Valley
+2013,145.43,232.61,172.05,172.05,Tulare,San Joaquin Valley
+2014,143.86,244.94,174.61,174.61,Tulare,San Joaquin Valley
+2015,139.49,245.07,170.49,170.49,Tulare,San Joaquin Valley
+2016,135.11,245.19,166.37,166.37,Tulare,San Joaquin Valley
+2017,134.18,220.24,164.67,164.67,Tulare,San Joaquin Valley
+2018,133.25,195.29,162.97,162.97,Tulare,San Joaquin Valley
+2008,130.2,223.39,160.15,160.15,Tuolumne,Central Sierra
+2009,146.65,247.04,184.5,184.5,Tuolumne,Central Sierra
+2010,151.03,261.35,189.6,189.6,Tuolumne,Central Sierra
+2011,155.42,275.65,194.71,194.71,Tuolumne,Central Sierra
+2012,159.8,289.96,199.81,199.81,Tuolumne,Central Sierra
+2013,151.06,270.71,187.58,187.58,Tuolumne,Central Sierra
+2014,142.31,251.46,175.35,175.35,Tuolumne,Central Sierra
+2015,135.58,246.74,171.75,171.75,Tuolumne,Central Sierra
+2016,128.85,242.01,168.15,168.15,Tuolumne,Central Sierra
+2017,135.64,227.9,170.21,170.21,Tuolumne,Central Sierra
+2018,142.42,213.79,172.27,172.27,Tuolumne,Central Sierra
+2008,145.69,251.55,184.29,184.29,Ventura,Ventura
+2009,157.63,261.76,198.96,198.96,Ventura,Ventura
+2010,174.52,281.26,213.2,213.2,Ventura,Ventura
+2011,191.41,300.76,227.45,227.45,Ventura,Ventura
+2012,208.3,320.26,241.69,241.69,Ventura,Ventura
+2013,192.6,308.26,227.48,227.48,Ventura,Ventura
+2014,176.9,296.26,213.27,213.27,Ventura,Ventura
+2015,189.01,300.95,212.03,212.03,Ventura,Ventura
+2016,201.11,305.63,210.78,210.78,Ventura,Ventura
+2017,208.98,314.67,217.19,217.19,Ventura,Ventura
+2018,216.84,323.7,223.59,223.59,Ventura,Ventura
+2008,136.86,267.87,190.91,190.91,Yolo,Greater Sacramento
+2009,159.9,274.3,206.05,206.05,Yolo,Greater Sacramento
+2010,172.25,281.47,210.24,210.24,Yolo,Greater Sacramento
+2011,184.59,288.64,214.44,214.44,Yolo,Greater Sacramento
+2012,196.94,295.81,218.63,218.63,Yolo,Greater Sacramento
+2013,177.66,293.91,210.36,210.36,Yolo,Greater Sacramento
+2014,158.37,292,202.08,202.08,Yolo,Greater Sacramento
+2015,169.59,314.73,214.26,214.26,Yolo,Greater Sacramento
+2016,180.8,337.46,226.43,226.43,Yolo,Greater Sacramento
+2017,190.93,336.56,233.17,233.17,Yolo,Greater Sacramento
+2018,201.06,335.66,239.91,239.91,Yolo,Greater Sacramento
+2008,125.82,221.87,157.45,157.45,Yuba,Greater Sacramento
+2009,147.65,246.33,179.7,179.7,Yuba,Greater Sacramento
+2010,148.44,240.8,178.8,178.8,Yuba,Greater Sacramento
+2011,149.24,235.28,177.91,177.91,Yuba,Greater Sacramento
+2012,150.03,229.75,177.01,177.01,Yuba,Greater Sacramento
+2013,146.82,238.25,173.28,173.28,Yuba,Greater Sacramento
+2014,143.6,246.75,169.55,169.55,Yuba,Greater Sacramento
+2015,136.59,248.61,167.3,167.3,Yuba,Greater Sacramento
+2016,129.57,250.46,165.05,165.05,Yuba,Greater Sacramento
+2017,150.49,251.4,162.44,162.44,Yuba,Greater Sacramento
+2018,171.41,252.33,159.83,159.83,Yuba,Greater Sacramento

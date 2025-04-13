@@ -72,10 +72,10 @@ ca_childcare <- childcare_costs |>
 **3. Using a function from the `forcats` package, complete the code below to create a new variable where each county is categorized into one of the [10 Census regions](https://census.ca.gov/regions/) in California. Use the Region description (from the plot), not the Region number. An example region has been started for you.**  
 
 *Hint: This is probably a good place to use ChatGPT to reduce on tedious work. But you do need to know how to prompt ChatGPT to make it useful!*
-
+>> My Prompt 
 >I need to use the forcats::fct_collapse() function in R to categorize California counties into the 10 Census regions using the `forcats::fct_collapse()` function in R, you can use the following code within a `mutate()` call. This code maps each county name to its corresponding Census region as defined by the California Complete Count Office.
 
-
+>> Chat response
 > library(dplyr)
 > library(forcats)
 
@@ -95,9 +95,9 @@ ca_childcare <- childcare_costs |>
 
 
 
-This code assumes that your data frame is named `df` and contains a column named `county` with county names as character strings. The `fct_collapse()` function from the `forcats` package is used to recode the `county` variable into a new factor variable `census_region`, grouping counties into their respective Census regions.
+> This code assumes that your data frame is named `df` and contains a column named `county` with county names as character strings. The `fct_collapse()` function from the `forcats` package is used to recode the `county` variable into a new factor variable `census_region`, grouping counties into their respective Census regions.
 
-The regions and their corresponding counties are based on the groupings defined by the California Complete Count Office for the 2020 Census. citeturn0search0 
+> The regions and their corresponding counties are based on the groupings defined by the California Complete Count Office for the 2020 Census. citeturn0search0 
 
 ```{r}
 #| label: recoding-county-to-census-regions
@@ -119,7 +119,7 @@ ca_childcare <- ca_childcare |>
     'San Diego' = c("San Diego"),
     'Central Sierra' = c("Amador", "Calaveras", "Inyo", "Mono", "Tuolumne"),
     'North State' = c("Del Norte", "Humboldt", "Lake", "Mendocino", "Nevada", "Sierra")
-  ))
+  ))|> write_csv("ca_child_care.csv")
 ```
 
 
@@ -127,14 +127,17 @@ ca_childcare <- ca_childcare |>
 
 ```{r}
 #| label: median-income-by-region-over-time
-# Hint: You will want to calculate the median of median income before you make columns for 2008/2018 by transforming the data
-#| label: median-income-by-region-over-time
+#Hint: You will want to calculate the median of median income before you make columns for 2008/2018 by transforming the data
 
-income_by_region <- ca_childcare |> 
-  filter(study_year %in% c(2008, 2018)) |> 
-  group_by(region, study_year) |> 
-  summarise(median_income = median(median_income_2018, na.rm = TRUE), .groups = "drop") |> 
-  pivot_wider(names_from = study_year, values_from = median_income) |> 
+income_by_region <- ca_childcare|> 
+  filter(study_year %in% c(2008, 2018
+                           ))|> 
+  group_by(region, study_year
+           )|> 
+  summarise(median_income = median(median_income_2018, na.rm = TRUE), .groups = "drop"
+            )|> 
+  pivot_wider(names_from = study_year, values_from = median_income
+              )|> 
   arrange(desc(`2018`))
 
 
@@ -148,37 +151,118 @@ income_by_region <- ca_childcare |>
 ```{r}
 #| label: lowest-median-weekly-price-2018
 
-lowest_infant_cost_region <- ca_childcare |> 
-  filter(study_year == 2018) |> 
-  group_by(region) |> 
-  summarise(median_mc_infant = median(mc_infant, na.rm = TRUE)) |> 
+lowest_infant_cost_region <- ca_childcare|> 
+  filter(study_year == 2018
+         )|> 
+  group_by(region
+           )|> 
+  summarise(median_mc_infant = median(mc_infant, na.rm = TRUE
+                                      ))|> 
   slice_min(median_mc_infant, n = 1)
 
 ```
 
 **6. Recreate the plot (look at online instructions) that shows, for all ten regions, the change over time of the full-time median price for center-based childcare for infants, toddlers, and preschoolers. Recreate the plot. You do not have to replicate the exact colors or theme, but your plot should have the same content, including the order of the facets and legend, reader-friendly labels, axes breaks, and a  smooth function.**
 
+```{r}
+
+colorsVanLikes <- c(
+  "dodgerblue2", 
+  "#E31A1C", 
+  "green4",
+  "#6A3D9A", 
+  "#FF7F00", 
+  "skyblue2", 
+  "#FB9A99", 
+  "#CAB2D6",
+  "#FDBF6F", 
+  "gray70", 
+  "maroon", 
+  "orchid1", 
+  "deeppink1", 
+  "blue1",
+  "steelblue4",
+  "darkturquoise", 
+  "green1", 
+  "darkorange4",
+  "brown"
+)
+```
+
+
 
 ```{r}
 #| label: recreate-plot
 
+ca_childcare_infant <- ca_childcare |> 
+  select( -c( mc_toddler, mc_preschool ))
 
-#| label: recreate-plot
+ca_childcare_toddler <- ca_childcare |> 
+  select( -c( mc_infant, mc_preschool ))
 
-ca_childcare_long <- ca_childcare |> 
-  pivot_longer(cols = c(mc_infant, mc_toddler, mc_preschool), names_to = "age_group", values_to = "cost")
+ca_childcare_preschool <- ca_childcare |> 
+  select( -c( mc_toddler, mc_infant))
 
-ggplot(ca_childcare_long, aes(x = study_year, y = cost, color = age_group)) +
-  geom_smooth(se = FALSE) +
-  facet_wrap(~ region, scales = "free_y") +
+
+
+ca_childcare_infant|>
+  mutate(region = fct_reorder(region, median_income_2018
+                              ))|>
+  ggplot(aes(x = study_year, y = mc_infant, color = region
+             ))+
+  scale_color_manual(values = colorsVanLikes
+                     )+
+  geom_smooth(se = FALSE
+               )+
   labs(
-    title = "Center-based Childcare Costs Over Time in California",
-    x = "Year",
-    y = "Weekly Median Cost ($)",
-    color = "Age Group"
-  ) +
-  theme_minimal()
+    title = "Weekly Median Price for Center-Based Childcare ($)",
+    x = "Study Year",
+    y = "Weekly Price ($)",
+    color = "California Region"
+    )+
+  theme_minimal(base_size = 13
+                )+
+  theme(legend.position = "right")
 
+
+ca_childcare_toddler|>
+  mutate(region = fct_reorder(region, median_income_2018
+                              ))|>
+  ggplot(aes(x = study_year, y = mc_toddler, color = region
+             ))+
+  scale_color_manual(values = colorsVanLikes
+                     )+
+  geom_smooth(se = FALSE
+               )+
+  labs(
+    title = "Weekly Median Price for Center-Based Childcare ($)",
+    x = "Study Year",
+    y = "Weekly Price ($)",
+    color = "California Region"
+    )+
+  theme_minimal(base_size = 13
+                )+
+  theme(legend.position = "right")
+
+
+ca_childcare_preschool|>  
+    mutate(region = fct_reorder(region, median_income_2018
+                              ))|>
+  ggplot(aes(x = study_year, y = mc_preschool, color = region
+             ))+
+  scale_color_manual(values = colorsVanLikes
+                     )+
+  geom_smooth(se = FALSE
+               )+
+  labs(
+    title = "Weekly Median Price for Center-Based Childcare ($)",
+    x = "Study Year",
+    y = "Weekly Price ($)",
+    color = "California Region"
+    )+
+  theme_minimal(base_size = 13
+                )+
+  theme(legend.position = "right")
 
 ```
 
